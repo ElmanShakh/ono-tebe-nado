@@ -276,7 +276,7 @@ address {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 180px 50px 88px;
+  margin: 180px 50px 88px; 
 }
 
 .footer__adress {

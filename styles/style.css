@@ -59,7 +59,7 @@ address {
   line-height: 24.3px;
 }
 
-.cover {  
+.cover {
   position: relative;
   margin-bottom: 179px;
   background-image: url("../images/cover.jpg");
@@ -122,7 +122,7 @@ address {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 131px 51px 51px 77px; 
+  padding: 131px 51px 51px 77px;
 }
 
 .cover__description-text {
@@ -276,7 +276,7 @@ address {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 180px 50px 88px; 
+  margin: 180px 50px 88px;
 }
 
 .footer__adress {
@@ -290,7 +290,7 @@ address {
   flex-direction: column;
 }
 
-.footer__menu-list{
+.footer__menu-list {
   font-size: 18px;
   text-align: center;
 }
